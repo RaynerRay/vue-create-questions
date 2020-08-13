@@ -1,4 +1,4 @@
-# exam-nolint
+# vcq
 
 ## Project setup
 ```
